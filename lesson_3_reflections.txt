@@ -5,3 +5,5 @@ https://github.com/huiminzheng99/reflections.git
 fork 是GitHub to github 
 clone github to local
 分支是本地到本地
+拥有远程分支的上次已知状态的副本（存储在本地）有何好处？
+ke\\可以进行fast forward合并
