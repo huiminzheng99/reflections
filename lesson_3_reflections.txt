@@ -7,3 +7,5 @@ clone github to local
 分支是本地到本地
 拥有远程分支的上次已知状态的副本（存储在本地）有何好处？
 ke\\可以进行fast forward合并
+如何在不使用 Git 或 GitHub 的情况下开展协同？哪种做法更容易？哪种做法更困难？
+
